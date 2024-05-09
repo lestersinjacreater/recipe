@@ -1,0 +1,69 @@
+
+body{
+    background-color: blanchedalmond;
+    justify-content: center;
+    margin: 5% 20% 5% 20%;
+    
+}
+
+.universal{
+    background-color: white; 
+    padding-left: 33px;
+   border-radius: 35px;
+}
+
+.universal img{
+    width: 90%;
+    height: 250px;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+td{
+padding: 10px;
+  
+}
+
+
+
+
+h2{
+    color: purple;
+}
+
+
+.ingredients{
+    color: peru;
+    font-size: larger;
+}
+
+.instruction{
+    color: peru;
+    font-size: larger;
+}
+
+.nutrition{
+    color: peru;
+    font-size: larger;
+}
+
+li{
+    margin: 10px;
+}
+
+.attribution {
+
+    margin-top: 30px;
+    font-size: x-large;
+    
+
+}
+.attribution a{
+    text-decoration: none;
+}
